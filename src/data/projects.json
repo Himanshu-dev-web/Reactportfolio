@@ -1,26 +1,44 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Cryptocurrency Explorer Application",
+    "imageSrc": "projects/Crytpo.png",
+    "description": "Cryptocurrency Tracker App that displays all related data on Cryptos based on user search.",
+    "skills": ["React", "Tailwind"],
+    "demo": "https://cryptoexplorerapp.netlify.app/",
+    "source": "https://github.com/Himanshu-dev-web/cryptohunt"
   },
   {
     "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "imageSrc": "projects/recipe.png",
+    "description": "This is a project made to fetch the recipies of differents cuisine and their particular ingredients.",
+    "skills": ["React","Tailwind"],
+    "demo": "https://himanshurecipes.netlify.app",
+    "source": "https://github.com/Himanshu-dev-web/fsjs2.0/tree/main/React/RecipieApp"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Movie recommendation Application",
+    "imageSrc": "projects/Moviesapp.png",
+    "description": "Movie Fetching Application that fetch movies based on various Genres and also users can search.",
+    "skills": ["React","Tailwind"],
+    "demo": "https://tmdpmovieapp.netlify.app",
+    "source": "https://github.com/Himanshu-dev-web/fsjs2.0/tree/main/React/ReactTmdpMovieApp"
+  },
+  {
+    "title": "Netflix UI Clone Application",
+    "imageSrc": "projects/Netflix.png",
+    "description": "Netflix Ui Clone.",
+    "skills": ["React","Tailwind","Firebase","CSS"],
+    "demo": "https://spiffy-zabaione-c17fde.netlify.app",
+    "source": "https://github.com/Himanshu-dev-web/NetflixClone"
+  },
+  {
+    "title": "Amazon UI Clone Application",
+    "imageSrc": "projects/Amazon.png",
+    "description": "Amazon Ui Clone built with react and firebase that has add to cart functionality and also shows particular Product Page.",
+    "skills": ["React","Tailwind","Firebase","CSS"],
+    "demo": "https://jocular-llama-eb8718.netlify.app",
+    "source": "https://github.com/Himanshu-dev-web/Reactamazoneuiclone"
   }
+
 ]
+

@@ -12,19 +12,23 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
+    "title": "ExpressJS",
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "Javascript",
+    "imageSrc": "skills/js.png"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "title": "Tailwind",
+    "imageSrc": "skills/tailwind.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "bootstrap",
+    "imageSrc": "skills/bootstrap.svg"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/download.png"
   }
 ]
