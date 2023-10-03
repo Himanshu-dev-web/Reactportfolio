@@ -8,7 +8,7 @@
     "source": "https://github.com/Himanshu-dev-web/cryptohunt"
   },
   {
-    "title": "Project B",
+    "title": "Recipes Application",
     "imageSrc": "projects/recipe.png",
     "description": "This is a project made to fetch the recipies of differents cuisine and their particular ingredients.",
     "skills": ["React","Tailwind"],

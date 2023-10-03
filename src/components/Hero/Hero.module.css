@@ -67,14 +67,14 @@
 }
 
 .heroImg {
-  width: 50%;
+  width: 45%;
   z-index: 100;
   animation-name: floating;
   animation-duration: 3s;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
-  border-radius:50rem;
-  box-shadow: 8.0px 16.0px 16.0px hsla(0, 0%, 100%, 0.55);
+  border-radius:10rem;
+  /* box-shadow: 8.0px 16.0px 16.0px hsla(0, 0%, 100%, 0.55); */
 }
 canvas #particle-js {
   background-color: white !important;

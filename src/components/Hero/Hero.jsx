@@ -45,7 +45,7 @@ export const Hero = () => {
       </div>
 
       <img
-        src={getImageUrl("hero/IMG_20220719_222355.png")}
+        src={getImageUrl("hero/pngaaa.com-901244.png")}
         alt="Hero image of me"
         className={styles.heroImg}
       />    
@@ -60,7 +60,7 @@ export const Hero = () => {
             options={{
                 background: {
                     color: {
-                        value: "#352F44",
+                        value: "#4D3C77",
                     },
                 },
                 fpsLimit: 144,
@@ -94,7 +94,7 @@ export const Hero = () => {
                         color: "#ffffff",
                         distance: 150,
                         enable: true,
-                        opacity: 0.5,
+                        opacity: 0.1,
                         width: 1,
                     },
                     move: {
@@ -104,7 +104,7 @@ export const Hero = () => {
                             default: "bounce",
                         },
                         random: false,
-                        speed: 6,
+                        speed: 2,
                         straight: false,
                     },
                     number: {
@@ -112,7 +112,7 @@ export const Hero = () => {
                             enable: true,
                             area: 2000,
                         },
-                        value: 80,
+                        value: 50,
                     },
                     opacity: {
                         value: 0.5,
